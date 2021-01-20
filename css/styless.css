@@ -1,0 +1,137 @@
+.BOX1{
+	/*border: solid 2px darkgrey;*/
+	background-color: gray;
+	color: white;
+}
+.BOX2{
+	border: solid 1px grey;
+	background-color: gainsboro;
+	color: black;
+	height:10vh;
+	border-left: none;
+
+}
+.BOX3{
+	border: solid 1px grey;
+	background-color: gainsboro;
+	color: black;
+	height:10vh;
+}
+.BOX4{
+	border: solid 1px grey;
+	background-color: gainsboro;
+	color: black;
+	height:10vh;
+}
+.BOX5{
+	border: solid 1px grey;
+	background-color: darkorange;
+	color: white;
+	height:10vh;
+	border-right: none;
+}
+.BOX6{
+	border: solid 1px grey;
+	background-color: gainsboro;
+	color: black;
+	height:10vh;
+	border-left: none;
+}
+.BOX7{
+	border: solid 1px grey;
+	background-color: gainsboro;
+	color: black;
+	height:10vh;
+}
+.BOX8{
+	border: solid 1px grey;
+	background-color: gainsboro;
+	color: black;
+	height:10vh;
+	border-right: none;
+}
+.BOX9{
+	border: solid 1px grey;
+	background-color:darkorange;
+	color: white;
+	height:10vh;
+	border-right: none;
+}
+.BOX10{
+	border: solid 1px grey;
+	background-color: gainsboro;
+	color: black;
+	height:10vh;
+	border-left: none;
+}
+.BOX11{
+	border: solid 1px grey;
+	background-color: gainsboro;
+	color: black;
+	height:10vh;
+}
+.BOX12{
+	border: solid 1px grey;
+	background-color: gainsboro;
+	color: black;
+	height:10vh;
+}
+.BOX13{
+	border: solid 1px grey;
+	background-color: darkorange;
+	color: white;
+	height:10vh;
+	border-right: none;
+}
+.BOX14{
+	border: solid 1px grey;
+	background-color: gainsboro;
+	color: black;
+	height:10vh;
+	border-left: none;
+}
+.BOX15{
+	border: solid 1px grey;
+	background-color: gainsboro;
+	color: black;
+	height:10vh;
+}
+.BOX16{
+	border: solid 1px grey;
+	background-color: gainsboro;
+	color: black;
+	height:10vh;
+}
+.BOX17{
+	border: solid 1px grey;
+	background-color: darkorange;
+	color: white;
+	height:10vh;
+	border-right: none;
+}
+.BOX18{
+	border: solid 1px grey;
+	background-color: gainsboro;
+	color: black;
+	height:10vh;
+	border-left: none;
+}
+.BOX19{
+	border: solid 1px grey;
+	background-color: gainsboro;
+	color: black;
+	height:10vh;
+}
+.BOX20{
+	border: solid 1px grey;
+	background-color: darkorange;
+	color: white;
+	height:10vh;
+	border-right: none;
+}
+.firstbox{
+	border: 5px dotted orange;
+}
+.row6{
+	border-bottom: none;
+}

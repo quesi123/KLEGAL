@@ -1,0 +1,29 @@
+.carousel-resize{
+	height: 500px;
+}
+.footer{
+	border: 2px solid midnightblue;
+	background-color: midnightblue;
+
+}
+li{
+	color: white;
+}
+.head{
+	color: goldenrod;
+}
+.tail{
+	color: yellowgreen;
+	text-align: center;
+}
+.img-responsive{
+	height: 8vh;
+}
+.final{
+	text-align: right;
+	color: grey;
+	font-weight: bold;
+}
+.banner{
+	
+}
